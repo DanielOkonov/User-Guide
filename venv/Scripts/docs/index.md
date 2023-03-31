@@ -1,17 +1,18 @@
 # The Basics of Microsoft Excel
 
-<!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org). -->
-
 ## Introduction
 
 Microsoft Excel is a powerful spreadsheet application used for organizing, analyzing, and storing data. This guide is intended for beginners who want to learn how to use Excel to organize and manipulate data.
 
-
 ## Task 1: Formatting a Table
+
 ### Overview
+
 In this task, we will format a table in Excel.
+
 ### Steps
-1. Open Excel and create a new workbook by clicking on File > New Workbook.
+
+1. Open Excel and create a new workbook by clicking on New -> Blank workbook.
 2. Enter the following data into the first five rows of the worksheet:
 
     | Item     | Quantity | Price |
@@ -21,10 +22,13 @@ In this task, we will format a table in Excel.
     | Bananas  | 2        | 0.2   |
     | Grapes   | 4        | 0.4   |
     | Peaches  | 1        | 0.6   |
-    
-3. Select the entire table by clicking on the top left corner of the table.
+
+3. Select the entire table by clicking and dragging your cursor from the __Item__ cell to the 0.6 cell.
 4. Click on the Home tab and select "Format as Table". Choose a style that you like.
-5. Add a total row by clicking on the Design tab and selecting "Total Row".
+   ![Format as Table image](FormatAsTable.png "Format as Table")
+5. Add a total row by clicking on any one of the cells in the table
+<br>a. Click on the Table Design tab
+<br>b. Check the Total Row checkbox
 6. Click on the empty cell in the total row under the "Quantity" column. Select "Average" from the drop-down menu.
 7. Click on the empty cell in the total row under the "Price" column. Select "Sum" from the drop-down menu.
 8. Add a filter to the table by clicking on the Data tab and selecting "Filter".
@@ -32,12 +36,17 @@ In this task, we will format a table in Excel.
 10. Save your workbook.
 
 ### Conclusion
+
 Congratulations! You have formatted a table in Excel, added a total row, filtered and sorted the data.
 
 ## Task 2: Using Formulas
+
 ### Overview
+
 In this task, we will use formulas to perform calculations on data in Excel.
+
 ### Steps
+
 1. Open the workbook you created in Task 1.
 2. In cell A7, type "Total".
 3. In cell B7, enter the formula "=SUM(B2:B6)" to calculate the total quantity.
@@ -51,12 +60,17 @@ In this task, we will use formulas to perform calculations on data in Excel.
 11. Save your workbook.
 
 ### Conclusion
+
 Well done! You have used formulas to perform calculations on data in Excel.
 
 ## Task 3: Creating Charts
+
 ### Overview
+
 In this task, we will create a chart to visualize data in Excel.
+
 ### Steps
+
 1. Open the workbook you created in Task 1.
 2. Select cells A1:C6 by clicking on cell A1 and dragging down to cell C6.
 3. Click on the Insert tab and select "Recommended Charts". Choose a chart style that you like and click "OK".
@@ -69,4 +83,5 @@ In this task, we will create a chart to visualize data in Excel.
 10. Save your workbook.
 
 ### Conclusion
+
 Great job! You have created a chart in Excel, customized its layout, added data labels, changed the chart color and style.
