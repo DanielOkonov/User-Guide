@@ -26,14 +26,18 @@ In this task, we will format a table in Excel.
 3. Select the entire table by clicking and dragging your cursor from the __Item__ cell to the 0.6 cell.
 4. Click on the Home tab and select "Format as Table". Choose a style that you like.
    ![Format as Table image](FormatAsTable.png "Format as Table")
+   <br>
+   <br>
 5. Add a total row by clicking on any one of the cells in the table
 <br>a. Click on the Table Design tab
 <br>b. Check the Total Row checkbox
+    ![Total Row checkbox](TotalRow.png "Total Row checkbox")
+    <br>
+    <br>
 6. Click on the empty cell in the total row under the "Quantity" column. Select "Average" from the drop-down menu.
-7. Click on the empty cell in the total row under the "Price" column. Select "Sum" from the drop-down menu.
-8. Add a filter to the table by clicking on the Data tab and selecting "Filter".
-9. Sort the table in ascending order by clicking on the drop-down arrow in the "Item" column and selecting "Sort A to Z".
-10. Save your workbook.
+7. Add a filter to the table by clicking on the Data tab and selecting "Filter".
+8. Sort the table in ascending order by clicking on the drop-down arrow in the "Item" column and selecting "Sort A to Z".
+9. Save your workbook.
 
 ### Conclusion
 
