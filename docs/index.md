@@ -1,4 +1,6 @@
-# Introduction
+# Home
+
+## Introductions
 
 Hi everyone! 👋In this guide, you will learn about using Pivot Tables in [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel). Pivot Tables are a powerful tool that allows you to analyze, summarize, and visualize large datasets with ease. Our goal is to help you harness Excel's capabilities to streamline your work and improve productivity.
 

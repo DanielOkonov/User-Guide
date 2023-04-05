@@ -54,7 +54,7 @@ By the end of this section, you will have successfully learned the following:
 - [x] How to group data to summarize and analyze at different levels.
 - [x] How to change summary functions to suit your analysis.
 
-Great job 🤗. You can now customize Pivot Tables in Excel to present and analyze data more effectively. Feel free to explore additional customization options to further enhance your data analysis experience.
+Great job 🤗. You can now customize Pivot Tables in Excel to present and analyze data more effectively. Click on the link below to move on to the next step:
 
 **[Visualizing Data with PivotCharts](visualizing-data)**
 

@@ -1,9 +1,9 @@
-site_name: MicroSoft Excel Pivot Table Tutorial
+site_name: MicroSoft Excel User Documentation
 nav:
   - Home: "index.md"
   - Creating a Pivot Table: "/creating-pivot-tables"
   - Customizing a Pivot Table: "/customizing-pivot-tables/"
-  - Installing Express: "/visualizing-data/"
+  - Visualizing Data with PivotChart: "/visualizing-data/"
   - Troubleshooting: "/troubleshooting/"
   - Glossary: "/glossary/"
 
@@ -23,20 +23,53 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+  
   language: en
+
   palette:
-    - scheme: default
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: teal
-      accent: purple
-    - scheme: slate
+      accent: teal
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
-      primary: teal
-      accent: lime
+
+    # - scheme: default
+    #   toggle:
+    #     icon: material/toggle-switch-off-outline
+    #     name: Switch to dark mode
+    #   primary: teal
+    #   accent: purple
+    # - scheme: slate
+    #   toggle:
+    #     icon: material/toggle-switch
+    #     name: Switch to light mode
+    #   primary: teal
+    #   accent: lime
+
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
 
 icon:
   repo: fontawesome/brands/git-alt

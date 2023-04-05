@@ -82,7 +82,7 @@ Now that you have created the Pivot Table, you can add data fields to analyze an
 
 By the end of this section, you will have successfully learned the following:
 
-- [x] The benefits of using Pivot Tables in Microsoft Excel.
+:material-check-circle:{ .green-checkmark } The benefits of using Pivot Tables in Microsoft Excel.
 - [x] How to create a Pivot Table using your dataset.
 - [x] Adding data fields and customizing the Pivot Table for better analysis.
 
