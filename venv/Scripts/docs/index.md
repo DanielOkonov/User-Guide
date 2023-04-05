@@ -4,6 +4,8 @@
 
 Microsoft Excel is a powerful spreadsheet application used for organizing, analyzing, and storing data. This guide is intended for beginners who want to learn how to use Excel to organize and manipulate data.
 
+<hr style="border:1px solid gray">
+
 ## Task 1: Formatting a Table
 
 ### Overview
@@ -53,6 +55,8 @@ Congratulations! You have formatted a table in Excel, added a total row, filtere
 <br>
 ![Task 1 Reference Image](Task1Reference.png "Task 1 Reference Image")
 
+<hr style="border:1px solid gray">
+
 ## Task 2: Using Formulas
 
 ### Overview
@@ -82,6 +86,8 @@ Well done! You have used formulas to perform calculations on data in Excel. Here
 <br>
 ![Task 2 Reference Image](Task2Reference.png "Task 2 Reference Image")
 
+<hr style="border:1px solid gray">
+
 ## Task 3: Creating Charts
 
 ### Overview
@@ -110,6 +116,7 @@ Great job! You have created a chart in Excel, customized its layout, changed the
 <br>
 ![Task 3 Reference Image](output-onlinepngtools.png "Task 3 Reference Image")
 
+<hr style="border:1px solid gray">
 
 ### User Guide Conclusion
 
